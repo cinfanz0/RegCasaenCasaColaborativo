@@ -47,7 +47,7 @@ public class ServicioFecha extends Service {
     String idReg;
     String cfecha;
     String AmoCasa;
-
+    //AQUi
     //onCreate: Se ejecuta cuando el servicio está creado en memoria.
     // Si el servicio ya está activo, entonces se evita de nuevo su llamada.
     @Override
