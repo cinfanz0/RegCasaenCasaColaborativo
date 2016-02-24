@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        Generar un identificador que se puede utilizar cuando se añade el elemento de menú por ejemplo iconos nuevos en en la actividad deseada
+        creamos entonces los item y seleccionamos el tipo de item, en este caso sera de tipo id
+    -->
+    <item
+        name="actualizar" type="id"/>
+    <item
+        name="cancel" type="id"/>
+</resources>

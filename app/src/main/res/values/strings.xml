@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Mi Registro de Casa en Casa</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo1">REGISTRO DE CASA EN CASA</string>
+    <string name="calle">CALLE</string>
+    <string name="territorio">Terr. N</string>
+    <string name="simbolo">Símbolos</string>
+    <string name="vuelva">V - vuelva</string>
+    <string name="ocupado">O - ocupado</string>
+    <string name="hombre">H - hombre</string>
+    <string name="nocasa">NC - no en casa</string>
+    <string name="nino">N - niño</string>
+    <string name="mujer">M - mujer</string>
+    <string name="ncasa">N° casa/Apto.</string>
+    <string name="fecha">Fecha Revisita</string>
+    <string name="simbolo1">Símbolo</string>
+    <string name="detalle">Nombre, colocaciones y observaciones</string>
+    <string name="amocasa">AMO CASA:</string>
+    <string name="mensajes">Desea eliminar el registro?</string>
+    <string name="btelimi">Eliminar</string>
+    <string name="btcanel">Cancelar</string>
+</resources>

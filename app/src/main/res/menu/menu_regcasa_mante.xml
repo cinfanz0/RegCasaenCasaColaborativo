@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:support="http://schemas.android.com/apk/res-auto">
+    <!--
+
+            Aquí creamos un elemento, el apoyo de ajuste: showAsAction para mostrar el elemento como una acción si
+            hay espacio en la barra de acciones compatibles.
+            con esto se mostrran los iconocs el el actionbar support:showAsAction
+       -->
+    <item
+        android:id="@+id/editar"
+        android:title="EDIT"
+        android:icon="@drawable/edit"
+        support:showAsAction= "ifRoom"
+        android:orderInCategory="0"
+        />
+</menu>
